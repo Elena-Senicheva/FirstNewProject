@@ -1,0 +1,21 @@
+a {
+  text-decoration: none;
+}
+
+nav{
+  background-color: turquoise;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+  font-size: 1.5em;
+}
+.nav-link{
+  color: rgb(101, 170, 22);
+}
+
+p{
+  font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+.link-nav{
+  font-size: 20px;
+  color: blue;
+}
